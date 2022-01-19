@@ -20,4 +20,8 @@ Membuat aplikasi sederhana menggunakan Django-Admin dengan menerapkan ketentuan 
   <li><h4><b>Halaman Form User</b></h4></li>
   
   ![hasil3](https://user-images.githubusercontent.com/61817589/150197582-6ff30a97-c7bf-4906-b1c3-49513edb32e0.png)
+  
+  <li><h4><b>Halaman Admin</b></h4></li>
+  
+  ![hasil4](https://user-images.githubusercontent.com/61817589/150197916-418f6085-65f6-4604-88cd-40567697962f.png)
 </ul>
