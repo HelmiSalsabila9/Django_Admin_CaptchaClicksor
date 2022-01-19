@@ -5,3 +5,5 @@ Membuat aplikasi sederhana menggunakan Django-Admin dengan menerapkan ketentuan 
   <li>Membuat validasi minimal 5</li>
   <li>Koneksi Database</li>
 </ol>
+
+# Output
