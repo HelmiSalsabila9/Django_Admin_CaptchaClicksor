@@ -26,7 +26,7 @@ Membuat aplikasi sederhana menggunakan Django-Admin dengan menerapkan ketentuan 
   ![hasil4](https://user-images.githubusercontent.com/61817589/150197916-418f6085-65f6-4604-88cd-40567697962f.png)
 </ul>
 
-#About
+# About
 
 [Instagram](https://www.instagram.com/hels.ae/)
 
