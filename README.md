@@ -25,3 +25,11 @@ Membuat aplikasi sederhana menggunakan Django-Admin dengan menerapkan ketentuan 
   
   ![hasil4](https://user-images.githubusercontent.com/61817589/150197916-418f6085-65f6-4604-88cd-40567697962f.png)
 </ul>
+
+#About
+
+[Instagram](https://www.instagram.com/hels.ae/)
+
+[LinkIn](https://www.linkedin.com/in/helmisalsabila9/)
+
+[Youtube](https://www.youtube.com/channel/UCV3nFQJw1bf03Ds9Pf5JcxA)
